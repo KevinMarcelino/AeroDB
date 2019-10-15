@@ -1,0 +1,4 @@
+set a y 3 4
+set b 3 4
+min a
+bye
